@@ -114,7 +114,7 @@ class Config {
 				</div>
 				
 				<script src="jquery.min.js"></script>
-				<script src="bootstrap.bundle.min.js"></script>
+				<script src="bootstrap.bundle.js"></script>
 <!-- 				<script src="files/bootstrap-select/bootstrap-select.min.js" ></script>
 				<script src="files/moment.min.js"></script>
 				<script src="files/moment-el.js"></script>
