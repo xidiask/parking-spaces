@@ -14,8 +14,8 @@ class Config {
 		/*		$username = "root";
 		$password = "";
 		*/
-		$username = "dcs";
-		$password = "DataControlS";
+		$username = "";
+		$password = "";
 		$database = "parking_spaces";
 		
 		// Create connection
