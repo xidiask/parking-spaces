@@ -159,7 +159,6 @@
           newSpot = popoverDiv.querySelector('input').value,
           spotDiv = document.querySelector(`[aria-describedby="${popoverId}"]`),
           plate = spotDiv.querySelector('.vehicle-plate').textContent;
-
           let freeSpots = document.querySelectorAll('.parking-space:not(.occupied)>.space-code');
 
           Array.from(freeSpots).map(object => {
