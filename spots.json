@@ -1,1 +1,3130 @@
-{"1":{"name":"-3","label":"3<sup>\u03bf<\/sup> \u03a5\u03a0\u039f\u0393\u0395\u0399\u039f","spot":{"231":{"name":"-316","type":"normal","top":"28","left":"52"},"232":{"name":"-317","type":"normal","top":"28","left":"126"},"233":{"name":"-318","type":"normal","top":"28","left":"200"},"234":{"name":"-319","type":"normal","top":"28","left":"274"},"235":{"name":"-320","type":"normal","top":"28","left":"348"},"236":{"name":"-321","type":"normal","top":"28","left":"422"},"237":{"name":"-322","type":"normal","top":"28","left":"496"},"238":{"name":"-315","type":"normal","top":"116","left":"8"},"239":{"name":"-310","type":"normal","top":"158","left":"8"},"240":{"name":"-309","type":"normal","top":"200","left":"8"},"241":{"name":"-308","type":"normal","top":"242","left":"8"},"242":{"name":"-307","type":"normal","top":"284","left":"8"},"243":{"name":"-306","type":"normal","top":"326","left":"8"},"244":{"name":"-305","type":"normal","top":"368","left":"8"},"245":{"name":"-314","type":"normal","top":"160","left":"200"},"246":{"name":"-313","type":"normal","top":"206","left":"200"},"247":{"name":"-312","type":"normal","top":"252","left":"200"},"248":{"name":"-311","type":"normal","top":"298","left":"200"},"249":{"name":"-334","type":"normal","top":"160","left":"295"},"250":{"name":"-333","type":"normal","top":"206","left":"295"},"251":{"name":"-332","type":"normal","top":"252","left":"295"},"252":{"name":"-331","type":"normal","top":"298","left":"295"},"253":{"name":"-325","type":"normal","top":"172","left":"536"},"254":{"name":"-326","type":"normal","top":"212","left":"536"},"255":{"name":"-327","type":"normal","top":"252","left":"536"},"256":{"name":"-328","type":"normal","top":"292","left":"536"},"257":{"name":"-304","type":"normal","top":"382","left":"114"},"258":{"name":"-303","type":"normal","top":"382","left":"198"},"259":{"name":"-302","type":"normal","top":"382","left":"282"},"260":{"name":"-301","type":"normal","top":"382","left":"366"},"337":{"name":"-3\u03944","type":"temp","top":"160","left":"390"},"338":{"name":"-3\u03943","type":"temp","top":"206","left":"390"},"339":{"name":"-3\u03942","type":"temp","top":"252","left":"390"},"340":{"name":"-3\u03941","type":"temp","top":"298","left":"390"}}},"2":{"name":"-2","label":"2<sup>\u03bf<\/sup> \u03a5\u03a0\u039f\u0393\u0395\u0399\u039f","spot":{"285":{"name":"-234","type":"normal","top":"160","left":"295"},"286":{"name":"-233","type":"normal","top":"206","left":"295"},"287":{"name":"-232","type":"normal","top":"252","left":"295"},"288":{"name":"-231","type":"normal","top":"298","left":"295"},"289":{"name":"-223","type":"normal","top":"92","left":"536"},"290":{"name":"-224","type":"normal","top":"132","left":"536"},"291":{"name":"-225","type":"normal","top":"172","left":"536"},"292":{"name":"-226","type":"normal","top":"212","left":"536"},"293":{"name":"-227","type":"normal","top":"252","left":"536"},"294":{"name":"-228","type":"normal","top":"292","left":"536"},"295":{"name":"-229","type":"normal","top":"332","left":"536"},"296":{"name":"-230","type":"normal","top":"372","left":"536"},"333":{"name":"-2\u03944","type":"temp","top":"160","left":"390"},"334":{"name":"-2\u03943","type":"temp","top":"206","left":"390"},"335":{"name":"-2\u03942","type":"temp","top":"252","left":"390"},"336":{"name":"-2\u03941","type":"temp","top":"298","left":"390"}}},"3":{"name":"-1","label":"1<sup>\u03bf<\/sup> \u03a5\u03a0\u039f\u0393\u0395\u0399\u039f","spot":{"197":{"name":"-116","type":"normal","top":"28","left":"52"},"198":{"name":"-117","type":"normal","top":"28","left":"126"},"199":{"name":"-118","type":"normal","top":"28","left":"200"},"200":{"name":"-119","type":"normal","top":"28","left":"274"},"201":{"name":"-120","type":"normal","top":"28","left":"348"},"202":{"name":"-121","type":"normal","top":"28","left":"422"},"203":{"name":"-122","type":"normal","top":"28","left":"496"},"204":{"name":"-115","type":"normal","top":"116","left":"8"},"205":{"name":"-110","type":"normal","top":"158","left":"8"},"206":{"name":"-109","type":"normal","top":"200","left":"8"},"207":{"name":"-108","type":"normal","top":"242","left":"8"},"208":{"name":"-107","type":"normal","top":"284","left":"8"},"209":{"name":"-106","type":"normal","top":"326","left":"8"},"210":{"name":"-105","type":"normal","top":"368","left":"8"},"211":{"name":"-114","type":"normal","top":"160","left":"200"},"212":{"name":"-113","type":"normal","top":"206","left":"200"},"213":{"name":"-112","type":"normal","top":"252","left":"200"},"214":{"name":"-111","type":"normal","top":"298","left":"200"},"215":{"name":"-134","type":"normal","top":"160","left":"295"},"216":{"name":"-133","type":"normal","top":"206","left":"295"},"217":{"name":"-132","type":"normal","top":"252","left":"295"},"218":{"name":"-131","type":"normal","top":"298","left":"295"},"219":{"name":"-123","type":"normal","top":"92","left":"536"},"220":{"name":"-124","type":"normal","top":"132","left":"536"},"221":{"name":"-125","type":"normal","top":"172","left":"536"},"222":{"name":"-126","type":"normal","top":"212","left":"536"},"223":{"name":"-127","type":"normal","top":"252","left":"536"},"224":{"name":"-128","type":"normal","top":"292","left":"536"},"225":{"name":"-129","type":"normal","top":"332","left":"536"},"226":{"name":"-130","type":"normal","top":"372","left":"536"},"227":{"name":"-104","type":"normal","top":"382","left":"114"},"228":{"name":"-103","type":"normal","top":"382","left":"198"},"229":{"name":"-102","type":"normal","top":"382","left":"282"},"230":{"name":"-101","type":"normal","top":"382","left":"366"},"329":{"name":"-1\u03944","type":"temp","top":"160","left":"390"},"330":{"name":"-1\u03943","type":"temp","top":"206","left":"390"},"331":{"name":"-1\u03942","type":"temp","top":"252","left":"390"},"332":{"name":"-1\u03941","type":"temp","top":"298","left":"390"}}},"4":{"name":"0","label":"\u0399\u03a3\u039f\u0393\u0395\u0399\u039f","spot":{"261":{"name":"016","type":"normal","top":"28","left":"52"},"262":{"name":"017","type":"normal","top":"28","left":"126"},"263":{"name":"021","type":"normal","top":"28","left":"422"},"264":{"name":"022","type":"normal","top":"28","left":"496"},"265":{"name":"010","type":"normal","top":"158","left":"8"},"266":{"name":"009","type":"normal","top":"200","left":"8"},"267":{"name":"014","type":"normal","top":"160","left":"200"},"268":{"name":"013","type":"normal","top":"206","left":"200"},"269":{"name":"012","type":"normal","top":"252","left":"200"},"270":{"name":"011","type":"normal","top":"298","left":"200"},"271":{"name":"034","type":"normal","top":"160","left":"295"},"272":{"name":"033","type":"normal","top":"206","left":"295"},"273":{"name":"032","type":"normal","top":"252","left":"295"},"274":{"name":"031","type":"normal","top":"298","left":"295"},"275":{"name":"023","type":"normal","top":"92","left":"536"},"276":{"name":"024","type":"normal","top":"132","left":"536"},"277":{"name":"025","type":"normal","top":"172","left":"536"},"278":{"name":"026","type":"normal","top":"212","left":"536"},"279":{"name":"027","type":"normal","top":"252","left":"536"},"280":{"name":"028","type":"normal","top":"292","left":"536"},"281":{"name":"029","type":"normal","top":"332","left":"536"},"282":{"name":"030","type":"normal","top":"372","left":"536"},"283":{"name":"002","type":"normal","top":"382","left":"282"},"284":{"name":"001","type":"normal","top":"382","left":"366"},"325":{"name":"0\u03944","type":"temp","top":"160","left":"390"},"326":{"name":"0\u03943","type":"temp","top":"206","left":"390"},"327":{"name":"0\u03942","type":"temp","top":"252","left":"390"},"328":{"name":"0\u03941","type":"temp","top":"298","left":"390"}}},"5":{"name":"1","label":"1<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"165":{"name":"116","type":"normal","top":"28","left":"52"},"166":{"name":"117","type":"normal","top":"28","left":"126"},"167":{"name":"118","type":"normal","top":"28","left":"200"},"169":{"name":"120","type":"normal","top":"28","left":"348"},"170":{"name":"121","type":"normal","top":"28","left":"422"},"171":{"name":"122","type":"normal","top":"28","left":"496"},"172":{"name":"115","type":"normal","top":"116","left":"8"},"173":{"name":"110","type":"normal","top":"158","left":"8"},"174":{"name":"109","type":"normal","top":"200","left":"8"},"175":{"name":"108","type":"normal","top":"242","left":"8"},"176":{"name":"107","type":"normal","top":"284","left":"8"},"177":{"name":"106","type":"normal","top":"326","left":"8"},"178":{"name":"105","type":"normal","top":"368","left":"8"},"179":{"name":"114","type":"normal","top":"160","left":"200"},"180":{"name":"113","type":"normal","top":"206","left":"200"},"181":{"name":"112","type":"normal","top":"252","left":"200"},"182":{"name":"111","type":"normal","top":"298","left":"200"},"183":{"name":"134","type":"normal","top":"160","left":"295"},"184":{"name":"133","type":"normal","top":"206","left":"295"},"185":{"name":"132","type":"normal","top":"252","left":"295"},"186":{"name":"131","type":"normal","top":"298","left":"295"},"187":{"name":"123","type":"normal","top":"92","left":"536"},"188":{"name":"124","type":"normal","top":"132","left":"536"},"189":{"name":"125","type":"normal","top":"172","left":"536"},"190":{"name":"126","type":"normal","top":"212","left":"536"},"191":{"name":"127","type":"normal","top":"252","left":"536"},"192":{"name":"128","type":"normal","top":"292","left":"536"},"193":{"name":"129","type":"normal","top":"332","left":"536"},"194":{"name":"130","type":"normal","top":"372","left":"536"},"195":{"name":"102","type":"normal","top":"382","left":"282"},"196":{"name":"101","type":"normal","top":"382","left":"366"},"321":{"name":"1\u03944","type":"temp","top":"160","left":"390"},"322":{"name":"1\u03943","type":"temp","top":"206","left":"390"},"323":{"name":"1\u03942","type":"temp","top":"252","left":"390"},"324":{"name":"1\u03941","type":"temp","top":"298","left":"390"}}},"6":{"name":"2","label":"2<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"133":{"name":"216","type":"normal","top":"28","left":"52"},"134":{"name":"217","type":"normal","top":"28","left":"126"},"135":{"name":"218","type":"normal","top":"28","left":"200"},"136":{"name":"219","type":"normal","top":"28","left":"274"},"137":{"name":"220","type":"normal","top":"28","left":"348"},"138":{"name":"221","type":"normal","top":"28","left":"422"},"139":{"name":"222","type":"normal","top":"28","left":"496"},"140":{"name":"215","type":"normal","top":"116","left":"8"},"141":{"name":"210","type":"normal","top":"158","left":"8"},"142":{"name":"209","type":"normal","top":"200","left":"8"},"143":{"name":"208","type":"normal","top":"242","left":"8"},"144":{"name":"207","type":"normal","top":"284","left":"8"},"145":{"name":"206","type":"normal","top":"326","left":"8"},"146":{"name":"205","type":"normal","top":"368","left":"8"},"147":{"name":"214","type":"normal","top":"160","left":"200"},"148":{"name":"213","type":"normal","top":"206","left":"200"},"149":{"name":"212","type":"normal","top":"252","left":"200"},"150":{"name":"211","type":"normal","top":"298","left":"200"},"151":{"name":"234","type":"normal","top":"160","left":"295"},"152":{"name":"233","type":"normal","top":"206","left":"295"},"153":{"name":"232","type":"normal","top":"252","left":"295"},"154":{"name":"231","type":"normal","top":"298","left":"295"},"155":{"name":"223","type":"normal","top":"92","left":"536"},"156":{"name":"224","type":"normal","top":"132","left":"536"},"157":{"name":"225","type":"normal","top":"172","left":"536"},"158":{"name":"226","type":"normal","top":"212","left":"536"},"159":{"name":"227","type":"normal","top":"252","left":"536"},"160":{"name":"228","type":"normal","top":"292","left":"536"},"161":{"name":"229","type":"normal","top":"332","left":"536"},"162":{"name":"230","type":"normal","top":"372","left":"536"},"163":{"name":"202","type":"normal","top":"382","left":"282"},"164":{"name":"201","type":"normal","top":"382","left":"366"},"317":{"name":"2\u03944","type":"temp","top":"160","left":"390"},"318":{"name":"2\u03943","type":"temp","top":"206","left":"390"},"319":{"name":"2\u03942","type":"temp","top":"252","left":"390"},"320":{"name":"2\u03941","type":"temp","top":"298","left":"390"}}},"7":{"name":"3","label":"3<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"101":{"name":"316","type":"normal","top":"28","left":"52"},"102":{"name":"317","type":"normal","top":"28","left":"126"},"103":{"name":"318","type":"normal","top":"28","left":"200"},"104":{"name":"319","type":"normal","top":"28","left":"274"},"105":{"name":"320","type":"normal","top":"28","left":"348"},"106":{"name":"321","type":"normal","top":"28","left":"422"},"107":{"name":"322","type":"normal","top":"28","left":"496"},"108":{"name":"315","type":"normal","top":"116","left":"8"},"109":{"name":"310","type":"normal","top":"158","left":"8"},"110":{"name":"309","type":"normal","top":"200","left":"8"},"111":{"name":"308","type":"normal","top":"242","left":"8"},"112":{"name":"307","type":"normal","top":"284","left":"8"},"113":{"name":"306","type":"normal","top":"326","left":"8"},"114":{"name":"305","type":"normal","top":"368","left":"8"},"115":{"name":"314","type":"normal","top":"160","left":"200"},"116":{"name":"313","type":"normal","top":"206","left":"200"},"117":{"name":"312","type":"normal","top":"252","left":"200"},"118":{"name":"311","type":"normal","top":"298","left":"200"},"119":{"name":"334","type":"normal","top":"160","left":"295"},"120":{"name":"333","type":"normal","top":"206","left":"295"},"121":{"name":"332","type":"normal","top":"252","left":"295"},"122":{"name":"331","type":"normal","top":"298","left":"295"},"123":{"name":"323","type":"normal","top":"92","left":"536"},"124":{"name":"324","type":"normal","top":"132","left":"536"},"125":{"name":"325","type":"normal","top":"172","left":"536"},"126":{"name":"326","type":"normal","top":"212","left":"536"},"127":{"name":"327","type":"normal","top":"252","left":"536"},"128":{"name":"328","type":"normal","top":"292","left":"536"},"129":{"name":"329","type":"normal","top":"332","left":"536"},"130":{"name":"330","type":"normal","top":"372","left":"536"},"131":{"name":"302","type":"normal","top":"382","left":"282"},"132":{"name":"301","type":"normal","top":"382","left":"366"},"313":{"name":"3\u03944","type":"temp","top":"160","left":"390"},"314":{"name":"3\u03943","type":"temp","top":"206","left":"390"},"315":{"name":"3\u03942","type":"temp","top":"252","left":"390"},"316":{"name":"3\u03941","type":"temp","top":"298","left":"390"}}},"8":{"name":"4","label":"4<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"69":{"name":"416","type":"normal","top":"28","left":"52"},"70":{"name":"417","type":"normal","top":"28","left":"126"},"71":{"name":"418","type":"normal","top":"28","left":"200"},"72":{"name":"419","type":"normal","top":"28","left":"274"},"73":{"name":"420","type":"normal","top":"28","left":"348"},"74":{"name":"421","type":"normal","top":"28","left":"422"},"75":{"name":"422","type":"normal","top":"28","left":"496"},"76":{"name":"415","type":"normal","top":"116","left":"8"},"77":{"name":"410","type":"normal","top":"158","left":"8"},"78":{"name":"409","type":"normal","top":"200","left":"8"},"79":{"name":"408","type":"normal","top":"242","left":"8"},"80":{"name":"407","type":"normal","top":"284","left":"8"},"81":{"name":"406","type":"normal","top":"326","left":"8"},"82":{"name":"405","type":"normal","top":"368","left":"8"},"83":{"name":"414","type":"normal","top":"160","left":"200"},"84":{"name":"413","type":"normal","top":"206","left":"200"},"85":{"name":"412","type":"normal","top":"252","left":"200"},"86":{"name":"411","type":"normal","top":"298","left":"200"},"87":{"name":"434","type":"normal","top":"160","left":"295"},"88":{"name":"433","type":"normal","top":"206","left":"295"},"89":{"name":"432","type":"normal","top":"252","left":"295"},"90":{"name":"431","type":"normal","top":"298","left":"295"},"91":{"name":"423","type":"normal","top":"92","left":"536"},"92":{"name":"424","type":"normal","top":"132","left":"536"},"93":{"name":"425","type":"normal","top":"172","left":"536"},"94":{"name":"426","type":"normal","top":"212","left":"536"},"95":{"name":"427","type":"normal","top":"252","left":"536"},"96":{"name":"428","type":"normal","top":"292","left":"536"},"97":{"name":"429","type":"normal","top":"332","left":"536"},"98":{"name":"430","type":"normal","top":"372","left":"536"},"99":{"name":"402","type":"normal","top":"382","left":"282"},"100":{"name":"401","type":"normal","top":"382","left":"366"},"309":{"name":"4\u03944","type":"temp","top":"160","left":"390"},"310":{"name":"4\u03943","type":"temp","top":"206","left":"390"},"311":{"name":"4\u03942","type":"temp","top":"252","left":"390"},"312":{"name":"4\u03941","type":"temp","top":"298","left":"390"}}},"9":{"name":"5","label":"5<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"37":{"name":"516","type":"normal","top":"28","left":"52"},"38":{"name":"517","type":"normal","top":"28","left":"126"},"39":{"name":"518","type":"normal","top":"28","left":"200"},"40":{"name":"519","type":"normal","top":"28","left":"274"},"41":{"name":"520","type":"normal","top":"28","left":"348"},"42":{"name":"521","type":"normal","top":"28","left":"422"},"43":{"name":"522","type":"normal","top":"28","left":"496"},"44":{"name":"515","type":"normal","top":"116","left":"8"},"45":{"name":"510","type":"normal","top":"158","left":"8"},"46":{"name":"509","type":"normal","top":"200","left":"8"},"47":{"name":"508","type":"normal","top":"242","left":"8"},"48":{"name":"507","type":"normal","top":"284","left":"8"},"49":{"name":"506","type":"normal","top":"326","left":"8"},"50":{"name":"505","type":"normal","top":"368","left":"8"},"51":{"name":"514","type":"normal","top":"160","left":"200"},"52":{"name":"513","type":"normal","top":"206","left":"200"},"53":{"name":"512","type":"normal","top":"252","left":"200"},"54":{"name":"511","type":"normal","top":"298","left":"200"},"55":{"name":"534","type":"normal","top":"160","left":"295"},"56":{"name":"533","type":"normal","top":"206","left":"295"},"57":{"name":"532","type":"normal","top":"252","left":"295"},"58":{"name":"531","type":"normal","top":"298","left":"295"},"59":{"name":"523","type":"normal","top":"92","left":"536"},"60":{"name":"524","type":"normal","top":"132","left":"536"},"61":{"name":"525","type":"normal","top":"172","left":"536"},"62":{"name":"526","type":"normal","top":"212","left":"536"},"63":{"name":"527","type":"normal","top":"252","left":"536"},"64":{"name":"528","type":"normal","top":"292","left":"536"},"65":{"name":"529","type":"normal","top":"332","left":"536"},"66":{"name":"530","type":"normal","top":"372","left":"536"},"67":{"name":"502","type":"normal","top":"382","left":"282"},"68":{"name":"501","type":"normal","top":"382","left":"366"},"305":{"name":"5\u03944","type":"temp","top":"160","left":"390"},"306":{"name":"5\u03943","type":"temp","top":"206","left":"390"},"307":{"name":"5\u03942","type":"temp","top":"252","left":"390"},"308":{"name":"5\u03941","type":"temp","top":"298","left":"390"}}},"10":{"name":"6","label":"6<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"5":{"name":"616","type":"normal","top":"28","left":"52"},"6":{"name":"617","type":"normal","top":"28","left":"126"},"7":{"name":"618","type":"normal","top":"28","left":"200"},"8":{"name":"619","type":"normal","top":"28","left":"274"},"9":{"name":"620","type":"normal","top":"28","left":"348"},"10":{"name":"621","type":"normal","top":"28","left":"422"},"11":{"name":"622","type":"normal","top":"28","left":"496"},"12":{"name":"615","type":"normal","top":"116","left":"8"},"13":{"name":"610","type":"normal","top":"158","left":"8"},"14":{"name":"609","type":"normal","top":"200","left":"8"},"15":{"name":"608","type":"normal","top":"242","left":"8"},"16":{"name":"607","type":"normal","top":"284","left":"8"},"17":{"name":"606","type":"normal","top":"326","left":"8"},"18":{"name":"605","type":"normal","top":"368","left":"8"},"19":{"name":"614","type":"normal","top":"160","left":"200"},"20":{"name":"613","type":"normal","top":"206","left":"200"},"21":{"name":"612","type":"normal","top":"252","left":"200"},"22":{"name":"611","type":"normal","top":"298","left":"200"},"23":{"name":"634","type":"normal","top":"160","left":"295"},"24":{"name":"633","type":"normal","top":"206","left":"295"},"25":{"name":"632","type":"normal","top":"252","left":"295"},"26":{"name":"631","type":"normal","top":"298","left":"295"},"27":{"name":"623","type":"normal","top":"92","left":"536"},"28":{"name":"624","type":"normal","top":"132","left":"536"},"29":{"name":"625","type":"normal","top":"172","left":"536"},"30":{"name":"626","type":"normal","top":"212","left":"536"},"31":{"name":"627","type":"normal","top":"252","left":"536"},"32":{"name":"628","type":"normal","top":"292","left":"536"},"33":{"name":"629","type":"normal","top":"332","left":"536"},"34":{"name":"630","type":"normal","top":"372","left":"536"},"35":{"name":"602","type":"normal","top":"382","left":"282"},"36":{"name":"601","type":"normal","top":"382","left":"366"},"301":{"name":"6\u03941","type":"temp","top":"298","left":"390"},"302":{"name":"6\u03942","type":"temp","top":"252","left":"390"},"303":{"name":"6\u03943","type":"temp","top":"206","left":"390"},"304":{"name":"6\u03944","type":"temp","top":"160","left":"390"}}},"11":{"name":"7","label":"7<sup>\u03bf\u03c2<\/sup> \u039f\u03a1\u039f\u03a6\u039f\u03a3","spot":{"1":{"name":"701","type":"normal","top":"382","left":"366"},"2":{"name":"702","type":"normal","top":"382","left":"282"},"3":{"name":"705","type":"normal","top":"368","left":"8"},"4":{"name":"706","type":"normal","top":"326","left":"8"},"297":{"name":"7\u03944","type":"temp","top":"160","left":"390"},"298":{"name":"7\u03943","type":"temp","top":"206","left":"390"},"299":{"name":"7\u03942","type":"temp","top":"252","left":"390"},"300":{"name":"7\u03941","type":"temp","top":"298","left":"390"}}}}
+[
+    {
+        "id": "1",
+        "code": "-3",
+        "name": "3\u03bf \u03a5\u03a0\u039f\u0393\u0395\u0399\u039f",
+        "spot": [
+            {
+                "id": "231",
+                "code": "-316",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "232",
+                "code": "-317",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "233",
+                "code": "-318",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "234",
+                "code": "-319",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "235",
+                "code": "-320",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "236",
+                "code": "-321",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "237",
+                "code": "-322",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "238",
+                "code": "-315",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "239",
+                "code": "-310",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "240",
+                "code": "-309",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "241",
+                "code": "-308",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "242",
+                "code": "-307",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "243",
+                "code": "-306",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "244",
+                "code": "-305",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "245",
+                "code": "-314",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "246",
+                "code": "-313",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "247",
+                "code": "-312",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "248",
+                "code": "-311",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "249",
+                "code": "-334",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "250",
+                "code": "-333",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "251",
+                "code": "-332",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "252",
+                "code": "-331",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "253",
+                "code": "-325",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "254",
+                "code": "-326",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "255",
+                "code": "-327",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "256",
+                "code": "-328",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "257",
+                "code": "-304",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "114"
+                }
+            },
+            {
+                "id": "258",
+                "code": "-303",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "198"
+                }
+            },
+            {
+                "id": "259",
+                "code": "-302",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "260",
+                "code": "-301",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "337",
+                "code": "-3\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "338",
+                "code": "-3\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "339",
+                "code": "-3\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "340",
+                "code": "-3\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "code": "-2",
+        "name": "2\u03bf \u03a5\u03a0\u039f\u0393\u0395\u0399\u039f",
+        "spot": [
+            {
+                "id": "285",
+                "code": "-234",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "286",
+                "code": "-233",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "287",
+                "code": "-232",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "288",
+                "code": "-231",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "289",
+                "code": "-223",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "290",
+                "code": "-224",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "291",
+                "code": "-225",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "292",
+                "code": "-226",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "293",
+                "code": "-227",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "294",
+                "code": "-228",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "295",
+                "code": "-229",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "296",
+                "code": "-230",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "333",
+                "code": "-2\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "334",
+                "code": "-2\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "335",
+                "code": "-2\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "336",
+                "code": "-2\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "code": "-1",
+        "name": "1\u03bf \u03a5\u03a0\u039f\u0393\u0395\u0399\u039f",
+        "spot": [
+            {
+                "id": "197",
+                "code": "-116",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "198",
+                "code": "-117",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "199",
+                "code": "-118",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "200",
+                "code": "-119",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "201",
+                "code": "-120",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "202",
+                "code": "-121",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "203",
+                "code": "-122",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "204",
+                "code": "-115",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "205",
+                "code": "-110",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "206",
+                "code": "-109",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "207",
+                "code": "-108",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "208",
+                "code": "-107",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "209",
+                "code": "-106",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "210",
+                "code": "-105",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "211",
+                "code": "-114",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "212",
+                "code": "-113",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "213",
+                "code": "-112",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "214",
+                "code": "-111",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "215",
+                "code": "-134",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "216",
+                "code": "-133",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "217",
+                "code": "-132",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "218",
+                "code": "-131",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "219",
+                "code": "-123",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "220",
+                "code": "-124",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "221",
+                "code": "-125",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "222",
+                "code": "-126",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "223",
+                "code": "-127",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "224",
+                "code": "-128",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "225",
+                "code": "-129",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "226",
+                "code": "-130",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "227",
+                "code": "-104",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "114"
+                }
+            },
+            {
+                "id": "228",
+                "code": "-103",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "198"
+                }
+            },
+            {
+                "id": "229",
+                "code": "-102",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "230",
+                "code": "-101",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "329",
+                "code": "-1\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "330",
+                "code": "-1\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "331",
+                "code": "-1\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "332",
+                "code": "-1\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "code": "0",
+        "name": "\u0399\u03a3\u039f\u0393\u0395\u0399\u039f",
+        "spot": [
+            {
+                "id": "261",
+                "code": "016",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "262",
+                "code": "017",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "263",
+                "code": "021",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "264",
+                "code": "022",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "265",
+                "code": "010",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "266",
+                "code": "009",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "267",
+                "code": "014",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "268",
+                "code": "013",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "269",
+                "code": "012",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "270",
+                "code": "011",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "271",
+                "code": "034",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "272",
+                "code": "033",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "273",
+                "code": "032",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "274",
+                "code": "031",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "275",
+                "code": "023",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "276",
+                "code": "024",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "277",
+                "code": "025",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "278",
+                "code": "026",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "279",
+                "code": "027",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "280",
+                "code": "028",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "281",
+                "code": "029",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "282",
+                "code": "030",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "283",
+                "code": "002",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "284",
+                "code": "001",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "325",
+                "code": "0\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "326",
+                "code": "0\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "327",
+                "code": "0\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "328",
+                "code": "0\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "code": "1",
+        "name": "1\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "165",
+                "code": "116",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "166",
+                "code": "117",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "167",
+                "code": "118",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "169",
+                "code": "120",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "170",
+                "code": "121",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "171",
+                "code": "122",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "172",
+                "code": "115",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "173",
+                "code": "110",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "174",
+                "code": "109",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "175",
+                "code": "108",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "176",
+                "code": "107",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "177",
+                "code": "106",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "178",
+                "code": "105",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "179",
+                "code": "114",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "180",
+                "code": "113",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "181",
+                "code": "112",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "182",
+                "code": "111",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "183",
+                "code": "134",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "184",
+                "code": "133",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "185",
+                "code": "132",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "186",
+                "code": "131",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "187",
+                "code": "123",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "188",
+                "code": "124",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "189",
+                "code": "125",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "190",
+                "code": "126",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "191",
+                "code": "127",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "192",
+                "code": "128",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "193",
+                "code": "129",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "194",
+                "code": "130",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "195",
+                "code": "102",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "196",
+                "code": "101",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "321",
+                "code": "1\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "322",
+                "code": "1\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "323",
+                "code": "1\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "324",
+                "code": "1\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "code": "2",
+        "name": "2\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "133",
+                "code": "216",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "134",
+                "code": "217",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "135",
+                "code": "218",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "136",
+                "code": "219",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "137",
+                "code": "220",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "138",
+                "code": "221",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "139",
+                "code": "222",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "140",
+                "code": "215",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "141",
+                "code": "210",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "142",
+                "code": "209",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "143",
+                "code": "208",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "144",
+                "code": "207",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "145",
+                "code": "206",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "146",
+                "code": "205",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "147",
+                "code": "214",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "148",
+                "code": "213",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "149",
+                "code": "212",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "150",
+                "code": "211",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "151",
+                "code": "234",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "152",
+                "code": "233",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "153",
+                "code": "232",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "154",
+                "code": "231",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "155",
+                "code": "223",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "156",
+                "code": "224",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "157",
+                "code": "225",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "158",
+                "code": "226",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "159",
+                "code": "227",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "160",
+                "code": "228",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "161",
+                "code": "229",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "162",
+                "code": "230",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "163",
+                "code": "202",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "164",
+                "code": "201",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "317",
+                "code": "2\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "318",
+                "code": "2\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "319",
+                "code": "2\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "320",
+                "code": "2\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "code": "3",
+        "name": "3\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "101",
+                "code": "316",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "102",
+                "code": "317",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "103",
+                "code": "318",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "104",
+                "code": "319",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "105",
+                "code": "320",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "106",
+                "code": "321",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "107",
+                "code": "322",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "108",
+                "code": "315",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "109",
+                "code": "310",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "110",
+                "code": "309",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "111",
+                "code": "308",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "112",
+                "code": "307",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "113",
+                "code": "306",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "114",
+                "code": "305",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "115",
+                "code": "314",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "116",
+                "code": "313",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "117",
+                "code": "312",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "118",
+                "code": "311",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "119",
+                "code": "334",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "120",
+                "code": "333",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "121",
+                "code": "332",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "122",
+                "code": "331",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "123",
+                "code": "323",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "124",
+                "code": "324",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "125",
+                "code": "325",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "126",
+                "code": "326",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "127",
+                "code": "327",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "128",
+                "code": "328",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "129",
+                "code": "329",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "130",
+                "code": "330",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "131",
+                "code": "302",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "132",
+                "code": "301",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "313",
+                "code": "3\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "314",
+                "code": "3\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "315",
+                "code": "3\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "316",
+                "code": "3\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "code": "4",
+        "name": "4\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "69",
+                "code": "416",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "70",
+                "code": "417",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "71",
+                "code": "418",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "72",
+                "code": "419",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "73",
+                "code": "420",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "74",
+                "code": "421",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "75",
+                "code": "422",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "76",
+                "code": "415",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "77",
+                "code": "410",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "78",
+                "code": "409",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "79",
+                "code": "408",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "80",
+                "code": "407",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "81",
+                "code": "406",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "82",
+                "code": "405",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "83",
+                "code": "414",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "84",
+                "code": "413",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "85",
+                "code": "412",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "86",
+                "code": "411",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "87",
+                "code": "434",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "88",
+                "code": "433",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "89",
+                "code": "432",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "90",
+                "code": "431",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "91",
+                "code": "423",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "92",
+                "code": "424",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "93",
+                "code": "425",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "94",
+                "code": "426",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "95",
+                "code": "427",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "96",
+                "code": "428",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "97",
+                "code": "429",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "98",
+                "code": "430",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "99",
+                "code": "402",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "100",
+                "code": "401",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "309",
+                "code": "4\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "310",
+                "code": "4\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "311",
+                "code": "4\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "312",
+                "code": "4\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "code": "5",
+        "name": "5\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "37",
+                "code": "516",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "38",
+                "code": "517",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "39",
+                "code": "518",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "40",
+                "code": "519",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "41",
+                "code": "520",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "42",
+                "code": "521",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "43",
+                "code": "522",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "44",
+                "code": "515",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "45",
+                "code": "510",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "46",
+                "code": "509",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "47",
+                "code": "508",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "48",
+                "code": "507",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "49",
+                "code": "506",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "50",
+                "code": "505",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "51",
+                "code": "514",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "52",
+                "code": "513",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "53",
+                "code": "512",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "54",
+                "code": "511",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "55",
+                "code": "534",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "56",
+                "code": "533",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "57",
+                "code": "532",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "58",
+                "code": "531",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "59",
+                "code": "523",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "60",
+                "code": "524",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "61",
+                "code": "525",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "62",
+                "code": "526",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "63",
+                "code": "527",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "64",
+                "code": "528",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "65",
+                "code": "529",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "66",
+                "code": "530",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "67",
+                "code": "502",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "68",
+                "code": "501",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "305",
+                "code": "5\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "306",
+                "code": "5\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "307",
+                "code": "5\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "308",
+                "code": "5\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "code": "6",
+        "name": "6\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "5",
+                "code": "616",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "52"
+                }
+            },
+            {
+                "id": "6",
+                "code": "617",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "126"
+                }
+            },
+            {
+                "id": "7",
+                "code": "618",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "8",
+                "code": "619",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "274"
+                }
+            },
+            {
+                "id": "9",
+                "code": "620",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "348"
+                }
+            },
+            {
+                "id": "10",
+                "code": "621",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "422"
+                }
+            },
+            {
+                "id": "11",
+                "code": "622",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "28",
+                    "left": "496"
+                }
+            },
+            {
+                "id": "12",
+                "code": "615",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "116",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "13",
+                "code": "610",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "158",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "14",
+                "code": "609",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "200",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "15",
+                "code": "608",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "242",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "16",
+                "code": "607",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "284",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "17",
+                "code": "606",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "18",
+                "code": "605",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "19",
+                "code": "614",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "20",
+                "code": "613",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "21",
+                "code": "612",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "22",
+                "code": "611",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "200"
+                }
+            },
+            {
+                "id": "23",
+                "code": "634",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "160",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "24",
+                "code": "633",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "206",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "25",
+                "code": "632",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "26",
+                "code": "631",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "298",
+                    "left": "295"
+                }
+            },
+            {
+                "id": "27",
+                "code": "623",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "92",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "28",
+                "code": "624",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "132",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "29",
+                "code": "625",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "172",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "30",
+                "code": "626",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "212",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "31",
+                "code": "627",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "252",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "32",
+                "code": "628",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "292",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "33",
+                "code": "629",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "332",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "34",
+                "code": "630",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "372",
+                    "left": "536"
+                }
+            },
+            {
+                "id": "35",
+                "code": "602",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "36",
+                "code": "601",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "301",
+                "code": "6\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "302",
+                "code": "6\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "303",
+                "code": "6\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "304",
+                "code": "6\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "code": "7",
+        "name": "7\u03bf\u03c2 \u039f\u03a1\u039f\u03a6\u039f\u03a3",
+        "spot": [
+            {
+                "id": "1",
+                "code": "701",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "366"
+                }
+            },
+            {
+                "id": "2",
+                "code": "702",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "382",
+                    "left": "282"
+                }
+            },
+            {
+                "id": "3",
+                "code": "705",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "368",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "4",
+                "code": "706",
+                "parameters": {
+                    "temporary": "false",
+                    "top": "326",
+                    "left": "8"
+                }
+            },
+            {
+                "id": "297",
+                "code": "7\u03944",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "160",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "298",
+                "code": "7\u03943",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "206",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "299",
+                "code": "7\u03942",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "252",
+                    "left": "390"
+                }
+            },
+            {
+                "id": "300",
+                "code": "7\u03941",
+                "parameters": {
+                    "temporary": "true",
+                    "top": "298",
+                    "left": "390"
+                }
+            }
+        ]
+    }
+]

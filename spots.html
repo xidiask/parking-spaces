@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Parking spaces</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.css"/>
+    <style>
+        input.form-control:focus, .btn-outline-secondary, .btn-outline-secondary:focus  {
+          border: 1px solid #ced4da;
+          box-shadow: none;
+        }
+        svg {pointer-events: none;}
+  
+        body.xl #pills-floorContent,
+        body.xxl #pills-floorContent {
+            margin: 0 12rem;
+        }
+        body.lg #pills-floorContent {
+            margin: 0 8rem;
+        }
+        .floor-frame {
+            position: relative;
+            border: 1px solid #dee2e6;
+            margin: 1.5rem auto;
+        }
+        .parking-space {
+            position:absolute;
+            text-align: center;
+            border: 1px solid #2ee24c;
+            display: flex;
+            flex-direction: column;
+        }
+        .parking-space.occupied {
+            border: 1px solid #8d0808;
+            cursor: pointer;
+        }
+        .parking-space:not(.occupied) {
+          pointer-events:none;
+        }
+        .parking-space.temp {
+            border: 1px solid #ccc;
+        }
+        .parking-space.temp.occupied {
+            border: 1px dotted #8d0808;
+        }
+        .parking-space > .space-code {
+            font-size: .9em;
+            font-weight: 600;
+            line-height: normal;
+        }
+        .parking-space > .vehicle-plate {
+            font-size: .8em;
+        }
+  
+      </style>
+
+
+  </head>
+  <body>
+      <div id="pillsFloorContainer">
+        <b-container>
+            <div class="mb-5">
+                <b-tabs pills end align="center">
+                    <b-tab v-for="x in floor_spot"
+                        :key="x.id"
+                        :id="`floor_${x.id}`"
+                        class="my-5"
+                        :title="x.code"
+                        :active="x.id == initial_floor_id" > 
+                            <div class="text-center" v-html="x.name"></div>
+                            <div class="floor-frame" :style="{paddingTop: `calc(${frame_height} * 100% / ${frame_width})`}" >
+                              <div v-for="y in x.spot" :key="y.id">
+                                <div 
+                                  :class="`parking-space${y.parameters.temporary=='true'?' temp':''}${plate[y.code]?' occupied':''}`" 
+                                  :id="`spot_${y.id}`"
+                                  tabindex="0"
+                                  :style="{
+                                      width: `calc(${space_width} * 100% / ${frame_width})`,
+                                      height: `calc(${space_height} * 100% / ${frame_height})`,
+                                      left: `calc(${y.parameters.left} * 100% / ${frame_width})`,
+                                      top: `calc(${y.parameters.top} * 100% / ${frame_height})`
+                                  }" >
+                                    <div class="space-code">{{y.code}}</div>
+                                    <div class="vehicle-plate">{{plate[y.code]}}</div>
+                                </div>
+                                <b-popover :target="`spot_${y.id}`" triggers="focus" placement="top" title="Μετακίνηση στη θέση">
+                                  <div class="input-move-to">
+                                    <b-input-group>            
+                                      <b-form-input type="text" placeholder="Θέση"></b-form-input>
+                                      <b-input-group-append>
+                                        <b-button variant="outline-secondary" id="change-spot" v-on:click='moveTo'>
+                                          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+                                            <path d="m12.14 8.753-5.482 4.796c-.646.566-1.658.106-1.658-.753V3.204a1 1 0 0 1 1.659-.753l5.48 4.796a1 1 0 0 1 0 1.506z"/>
+                                          </svg>
+                                        </b-button>
+                                      </b-input-group-append>
+                                    </b-input-group>
+                                  </div>
+                                </b-popover>
+                              </div>
+                            </div>
+                    </b-tab>
+                </b-tabs>
+            </div>
+
+
+
+        </b-container>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+    <!-- Add this after vue.js -->
+    <!-- <script src="https://unpkg.com/babel-polyfill@latest/dist/polyfill.min.js"></script> -->
+    <script src="https://unpkg.com/bootstrap-vue@latest/dist/bootstrap-vue.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script type="text/javascript">
+
+
+    new Vue({
+      el: '#pillsFloorContainer',
+      data: {
+        loading: true,
+        frame_width: 628.0,
+        frame_height: 422.0,
+        space_width: 72.0,
+        space_height: 32.0,
+        initial_floor_id: 4,
+        floor_spot: null,
+        plate: {
+          '009': 'ION4400',
+          '010': 'IMM1492',
+          '013': 'XNN8998',
+          '014': 'IYM8315',
+          '032': 'IZO1743',
+          '025': 'IOH9300',
+          '026': 'XNN1699',
+          '001': 'XNI1026',
+          '030': 'XNX9369'
+        }
+      },
+      mounted () {
+        axios
+          .get('spots.json')
+          .then(response => {
+            this.floor_spot = response.data;
+            //console.log(response.data);
+          })
+          .catch(error => {
+            console.log(error)
+            this.errored = true
+          })
+          .finally(() => this.loading = false)
+      },
+      methods: {
+        moveTo() {
+          const popoverBtn = document.getElementById("change-spot"),
+          popoverDiv = popoverBtn.closest(".popover"),
+          popoverId = popoverDiv.getAttribute('id'),
+          newSpot = popoverDiv.querySelector('input').value,
+          spotDiv = document.querySelector(`[aria-describedby="${popoverId}"]`),
+          plate = spotDiv.querySelector('.vehicle-plate').textContent;
+          spotDiv.querySelector('.vehicle-plate').innerHTML = '';
+          spotDiv.classList.remove('occupied');
+
+          let freeSpots = document.querySelectorAll('.parking-space:not(.occupied)>.space-code');
+
+          Array.from(freeSpots).map(object => {
+            if(object.textContent === newSpot) {
+              object.parentElement.classList.add('occupied');
+              object.parentElement.querySelector('.vehicle-plate').innerHTML = plate;
+              this.$root.$emit('bv::hide::popover');
+            }
+              
+          });
+        }
+      }
+    });
+    </script>
+  </body>
+</html>
